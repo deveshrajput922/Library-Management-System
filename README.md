@@ -1,4 +1,4 @@
-#📚 Library Management System
+📚 Library Management System
 
 A simple Library Management System built using Python and Object-Oriented Programming (OOP). This project was developed to understand the practical implementation of OOP concepts through a basic library management application.
 
@@ -76,10 +76,10 @@ Installation and Execution
 
 👨‍💻 Author
 
-Devesh Chauhan
+Devesh Rajput
 
 - GitHub: "@deveshrajput922" (https://github.com/deveshrajput922)
 
 ---
 
-Built as a learning project to practice Python and Object-Oriented Programming.
+Built as a learning project to practice Python and Object-Oriented Programming.Oriented Programming.
