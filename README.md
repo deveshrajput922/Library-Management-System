@@ -76,7 +76,7 @@ Installation and Execution
 
 👨‍💻 Author
 
-Devesh Rajput
+Devesh Chauhan
 
 - GitHub: "@deveshrajput922" (https://github.com/deveshrajput922)
 
